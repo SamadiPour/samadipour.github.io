@@ -14,15 +14,39 @@
             <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
             
             <guid>https://samadipour.github.io/posts/my-first-international-project/</guid>
-            <description>As an Iranian, I can&amp;rsquo;t work with other countries every day. Some won&amp;rsquo;t accept my nationality! Even if they accept it, there are many problems when it comes to payment! you might wonder well it&amp;rsquo;s not a hard thing but believe me when I say it. It&amp;rsquo;s too damn HARD! But anyway, let me tell the story.
-One day an Indian guy found my profile in Rive. He wanted an animation for his flutter application.</description>
-            <content type="html"><![CDATA[<p>As an Iranian, I can&rsquo;t work with other countries every day. Some won&rsquo;t accept my nationality! 
+            <description>Story As an Iranian, I can&amp;rsquo;t work with other countries every day. Some won&amp;rsquo;t accept my nationality! Even if they accept it, there are many problems when it comes to payment! you might wonder well it&amp;rsquo;s not a hard thing but believe me when I say it. It&amp;rsquo;s too damn HARD! But anyway, let me tell the story.
+One day an Indian guy found my profile in Rive.</description>
+            <content type="html"><![CDATA[<table style="align-content: center; align-items: center; vertical-align: middle;text-align: center;">
+  <tr>
+    <td>
+      
+    <img src="/images/my-first-international-project/screenshot-1.jpg"  alt="Screenshot 1"  class="left"  style="border-radius: 8px;"  onclick="window.open(this.src)" />
+
+
+    </td>
+    <td>
+      
+    <img src="/images/my-first-international-project/screenshot-2.jpg"  alt="Screenshot 2"  class="left"  style="border-radius: 8px;"  onclick="window.open(this.src)" />
+
+
+    </td>
+    <td>
+      
+    <img src="/images/my-first-international-project/screenshot-3.jpg"  alt="Screenshot 3"  class="left"  style="border-radius: 8px;"  onclick="window.open(this.src)" />
+
+
+    </td>
+  </tr>
+</table>
+<h2 id="story">Story</h2>
+<p>As an Iranian, I can&rsquo;t work with other countries every day. Some won&rsquo;t accept my nationality! 
 Even if they accept it, there are many problems when it comes to payment!
 you might wonder well it&rsquo;s not a hard thing but believe me when I say it.
 It&rsquo;s too damn HARD! But anyway, let me tell the story.</p>
 <p>One day an Indian guy found my profile in <a href="https://rive.app/a/SamadiPour/">Rive</a>.
 He wanted an animation for his flutter application. So we talked about it and I prepared everything. 
 The job was easy, and he liked it very much. after two or three weeks, he came to me with a new project.</p>
+<h2 id="project-details">Project Details</h2>
 <p>Basally it was a simple task management application that admin could create tasks for employees.
 The app is connected to API and Firebase services. Some of the app&rsquo;s necessary features:</p>
 <ul>
@@ -35,7 +59,8 @@ The app is connected to API and Firebase services. Some of the app&rsquo;s neces
 <p>I started the project on Jun 24 and finished it on Jun 30. although the project had 7-10 days time, I needed to focus on
 university exams, and I needed to finish it fast. So I spent a lot more than usual working on it. I also have
 a time tracker in Android Studio which tells me that I spent 47 hours coding for this project.</p>
-<p>Here is a demo of the app. I hope you enjoy it.</p>
+<h2 id="demo">Demo</h2>
+<p>I hope you enjoy it.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZWbLiekctSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
         </item>
         
