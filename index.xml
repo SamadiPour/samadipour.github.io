@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SamadiPour</title>
+    <link>https://samadipour.github.io/</link>
+    <description>Recent content on SamadiPour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Jul 2020 02:33:34 +0430</lastBuildDate>
+    
+	<atom:link href="https://samadipour.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://samadipour.github.io/projects/</link>
+      <pubDate>Thu, 02 Jul 2020 02:41:45 +0430</pubDate>
+      
+      <guid>https://samadipour.github.io/projects/</guid>
+      <description>Noting for now but i will add some 😉</description>
+    </item>
+    
+    <item>
+      <title>My First International Project</title>
+      <link>https://samadipour.github.io/posts/my-first-international-project/</link>
+      <pubDate>Thu, 02 Jul 2020 02:33:34 +0430</pubDate>
+      
+      <guid>https://samadipour.github.io/posts/my-first-international-project/</guid>
+      <description>As an Iranian, I can&amp;rsquo;t work with other countries every day. Some won&amp;rsquo;t accept my nationality! Even if they accept it, there are many problems when it comes to payment! you might wonder well it&amp;rsquo;s not a hard thing but believe me when I say it. It&amp;rsquo;s too damn HARD! But anyway, let me tell the story.
+One day an Indian guy found my profile in Rive. He wanted an animation for his flutter application.</description>
+    </item>
+    
+  </channel>
+</rss>

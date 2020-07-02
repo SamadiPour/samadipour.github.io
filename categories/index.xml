@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on SamadiPour</title>
+    <link>https://samadipour.github.io/categories/</link>
+    <description>Recent content in Categories on SamadiPour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Jul 2020 02:33:34 +0430</lastBuildDate>
+    
+	<atom:link href="https://samadipour.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>https://samadipour.github.io/categories/development/</link>
+      <pubDate>Thu, 02 Jul 2020 02:33:34 +0430</pubDate>
+      
+      <guid>https://samadipour.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
