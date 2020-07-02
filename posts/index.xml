@@ -1,25 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on A.H. SamadiPour</title>
-    <link>https://example.com/posts/</link>
-    <description>Recent content in Posts on A.H. SamadiPour</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>My First International Project</title>
-      <link>https://example.com/posts/my-first-international-project/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/posts/my-first-international-project/</guid>
-      <description>As an Iranian, I can&amp;rsquo;t work with other countries every day. Some won&amp;rsquo;t accept my nationality! Even if they accept it, there are many problems when it comes to payment! you might wonder well it&amp;rsquo;s not a hard thing but believe me when I say it. It&amp;rsquo;s too damn HARD! But anyway, let me tell the story.
+    <channel>
+        <title>Posts on A.H. SamadiPour</title>
+        <link>https://example.com/posts/</link>
+        <description>Recent content in Posts on A.H. SamadiPour</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First International Project</title>
+            <link>https://example.com/posts/my-first-international-project/</link>
+            <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://example.com/posts/my-first-international-project/</guid>
+            <description>As an Iranian, I can&amp;rsquo;t work with other countries every day. Some won&amp;rsquo;t accept my nationality! Even if they accept it, there are many problems when it comes to payment! you might wonder well it&amp;rsquo;s not a hard thing but believe me when I say it. It&amp;rsquo;s too damn HARD! But anyway, let me tell the story.
 One day an Indian guy found my profile in Rive. He wanted an animation for his flutter application.</description>
-    </item>
-    
-  </channel>
+            <content type="html"><![CDATA[<p>As an Iranian, I can&rsquo;t work with other countries every day. Some won&rsquo;t accept my nationality! 
+Even if they accept it, there are many problems when it comes to payment!
+you might wonder well it&rsquo;s not a hard thing but believe me when I say it.
+It&rsquo;s too damn HARD! But anyway, let me tell the story.</p>
+<p>One day an Indian guy found my profile in <a href="https://rive.app/a/SamadiPour/">Rive</a>.
+He wanted an animation for his flutter application. So we talked about it and I prepared everything. 
+The job was easy, and he liked it very much. after two or three weeks, he came to me with a new project.</p>
+<p>Basally it was a simple task management application that admin could create tasks for employees.
+The app is connected to API and Firebase services. Some of the app&rsquo;s necessary features:</p>
+<ul>
+<li>Sending and Receiving task attachment</li>
+<li>Comment about the task from employee</li>
+<li>Task timeline for every day</li>
+<li>User report statistics</li>
+<li>Push notification (with Firebase Cloud Messaging)</li>
+</ul>
+<p>I started the project on Jun 24 and finished it on Jun 30. although the project had 7-10 days time, I needed to focus on
+university exams, and I needed to finish it fast. So I spent a lot more than usual working on it. I also have
+a time tracker in Android Studio which tells me that I spent 47 hours coding for this project.</p>
+<p>Here is a demo of the app. I hope you enjoy it.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWbLiekctSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+        </item>
+        
+    </channel>
 </rss>
