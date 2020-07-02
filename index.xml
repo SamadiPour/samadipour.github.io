@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A.H. SamadiPour</title>
-    <link>https://example.com/</link>
+    <link>https://samadipour.github.io/</link>
     <description>Recent content on A.H. SamadiPour</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samadipour.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First International Project</title>
-      <link>https://example.com/posts/my-first-international-project/</link>
+      <link>https://samadipour.github.io/posts/my-first-international-project/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/my-first-international-project/</guid>
+      <guid>https://samadipour.github.io/posts/my-first-international-project/</guid>
       <description>As an Iranian, I can&amp;rsquo;t work with other countries every day. Some won&amp;rsquo;t accept my nationality! Even if they accept it, there are many problems when it comes to payment! you might wonder well it&amp;rsquo;s not a hard thing but believe me when I say it. It&amp;rsquo;s too damn HARD! But anyway, let me tell the story.
 One day an Indian guy found my profile in Rive. He wanted an animation for his flutter application.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/projects/</link>
+      <link>https://samadipour.github.io/projects/</link>
       <pubDate>Thu, 02 Jul 2020 02:41:45 +0430</pubDate>
       
-      <guid>https://example.com/projects/</guid>
+      <guid>https://samadipour.github.io/projects/</guid>
       <description>Noting for now but i will add some 😉</description>
     </item>
     
