@@ -15,34 +15,39 @@
             
             <guid>https://samadipour.github.io/posts/my-first-international-project/</guid>
             <description>Story As an Iranian, I can&amp;rsquo;t work with other countries every day. Some won&amp;rsquo;t accept my nationality! Even if they accept it, there are many problems when it comes to payment! you might wonder well it&amp;rsquo;s not a hard thing but believe me when I say it. It&amp;rsquo;s too damn HARD! But anyway, let me tell the story.</description>
-            <content type="html"><![CDATA[<table style="align-content: center; align-items: center; vertical-align: middle;text-align: center;">
-  <tr>
-    <td>
+            <content type="html"><![CDATA[<div class="cont">
+  <div class="gallery">
+    <ul id="lightgallery">
+      <li data-src="/images/my-first-international-project/screenshot-1.jpg">
+    <a href="">
+        <img class="img-responsive" src="/images/my-first-international-project/screenshot-1.jpg">
+        <div class="gallery-poster">
+            <img src="/img/zoom.png">
+        </div>
+    </a>
+</li>
+
+      <li data-src="/images/my-first-international-project/screenshot-2.jpg">
+    <a href="">
+        <img class="img-responsive" src="/images/my-first-international-project/screenshot-2.jpg">
+        <div class="gallery-poster">
+            <img src="/img/zoom.png">
+        </div>
+    </a>
+</li>
       
-<div class="image">
-    <img src="/images/my-first-international-project/screenshot-1.jpg"  alt="Screenshot 1"  class="left"  style="border-radius: 8px;"  onclick="window.open(this.src)" />
-</div>
-
-
-    </td>
-    <td>
+      <li data-src="/images/my-first-international-project/screenshot-3.jpg">
+    <a href="">
+        <img class="img-responsive" src="/images/my-first-international-project/screenshot-3.jpg">
+        <div class="gallery-poster">
+            <img src="/img/zoom.png">
+        </div>
+    </a>
+</li>
       
-<div class="image">
-    <img src="/images/my-first-international-project/screenshot-2.jpg"  alt="Screenshot 2"  class="left"  style="border-radius: 8px;"  onclick="window.open(this.src)" />
-</div>
-
-
-    </td>
-    <td>
-      
-<div class="image">
-    <img src="/images/my-first-international-project/screenshot-3.jpg"  alt="Screenshot 3"  class="left"  style="border-radius: 8px;"  onclick="window.open(this.src)" />
-</div>
-
-
-    </td>
-  </tr>
-</table>
+    </ul>
+  </div>
+</div> 
 <h2 id="story">Story</h2>
 <p>As an Iranian, I can&rsquo;t work with other countries every day. Some won&rsquo;t accept my nationality! 
 Even if they accept it, there are many problems when it comes to payment!
