@@ -14,25 +14,30 @@
             <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
             
             <guid>https://samadipour.github.io/posts/my-first-international-project/</guid>
-            <description>Story As an Iranian, I can&amp;rsquo;t work with other countries every day. Some won&amp;rsquo;t accept my nationality! Even if they accept it, there are many problems when it comes to payment! you might wonder well it&amp;rsquo;s not a hard thing but believe me when I say it. It&amp;rsquo;s too damn HARD! But anyway, let me tell the story.
-One day an Indian guy found my profile in Rive.</description>
+            <description>Story As an Iranian, I can&amp;rsquo;t work with other countries every day. Some won&amp;rsquo;t accept my nationality! Even if they accept it, there are many problems when it comes to payment! you might wonder well it&amp;rsquo;s not a hard thing but believe me when I say it. It&amp;rsquo;s too damn HARD! But anyway, let me tell the story.</description>
             <content type="html"><![CDATA[<table style="align-content: center; align-items: center; vertical-align: middle;text-align: center;">
   <tr>
     <td>
       
+<div class="image">
     <img src="/images/my-first-international-project/screenshot-1.jpg"  alt="Screenshot 1"  class="left"  style="border-radius: 8px;"  onclick="window.open(this.src)" />
+</div>
 
 
     </td>
     <td>
       
+<div class="image">
     <img src="/images/my-first-international-project/screenshot-2.jpg"  alt="Screenshot 2"  class="left"  style="border-radius: 8px;"  onclick="window.open(this.src)" />
+</div>
 
 
     </td>
     <td>
       
+<div class="image">
     <img src="/images/my-first-international-project/screenshot-3.jpg"  alt="Screenshot 3"  class="left"  style="border-radius: 8px;"  onclick="window.open(this.src)" />
+</div>
 
 
     </td>
@@ -61,7 +66,11 @@ university exams, and I needed to finish it fast. So I spent a lot more than usu
 a time tracker in Android Studio which tells me that I spent 47 hours coding for this project.</p>
 <h2 id="demo">Demo</h2>
 <p>I hope you enjoy it.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWbLiekctSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/ZWbLiekctSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
+]]></content>
         </item>
         
     </channel>
