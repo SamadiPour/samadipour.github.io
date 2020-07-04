@@ -74,15 +74,15 @@
 
 .gallery > ul > li {
     margin-bottom: 8px;
-    width: 180px;
+    width: 190px;
     display: inline-block;
     margin-right: 8px;
     list-style: outside none none;
 }
 
 .gallery > ul > li a {
-    border: 2px solid #FFF;
-    border-radius: 3px;
+    /*border: 2px solid #FFF;*/
+    /*border-radius: 8px;*/
     display: block;
     overflow: hidden;
     position: relative;
@@ -102,6 +102,7 @@
 
 .gallery > ul > li a:hover .gallery-poster > img {
     opacity: 1;
+    border-radius: 6px;
 }
 
 .gallery > ul > li a .gallery-poster {
@@ -113,6 +114,7 @@
     -webkit-transition: background-color 0.15s ease 0s;
     -o-transition: background-color 0.15s ease 0s;
     transition: background-color 0.15s ease 0s;
+    border-radius: 6px;
 }
 
 .gallery > ul > li a .gallery-poster > img {
@@ -125,10 +127,12 @@
     -webkit-transition: opacity 0.3s ease 0s;
     -o-transition: opacity 0.3s ease 0s;
     transition: opacity 0.3s ease 0s;
+    border-radius: 6px;
 }
 
 .gallery > ul > li a:hover .gallery-poster {
     background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 6px;
 }
 
 .gallery .justified-gallery > a > img {
@@ -140,10 +144,12 @@
     transform: scale3d(1, 1, 1);
     height: 100%;
     width: 100%;
+    border-radius: 6px;
 }
 
 .gallery .justified-gallery > a:hover .gallery-poster > img {
     opacity: 1;
+    border-radius: 6px;
 }
 
 .gallery .justified-gallery > a .gallery-poster {
@@ -167,10 +173,12 @@
     -webkit-transition: opacity 0.3s ease 0s;
     -o-transition: opacity 0.3s ease 0s;
     transition: opacity 0.3s ease 0s;
+    border-radius: 6px;
 }
 
 .gallery .justified-gallery > a:hover .gallery-poster {
     background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 6px;
 }
 
 .gallery .video .gallery-poster img {
