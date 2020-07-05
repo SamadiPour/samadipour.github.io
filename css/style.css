@@ -69,7 +69,6 @@
 
 .gallery > ul {
     margin-bottom: 0;
-    padding-left: 15px;
 }
 
 .gallery > ul > li {
@@ -191,4 +190,15 @@
 
 .gallery.dark > ul > li a {
     border: 3px solid #04070a;
+}
+
+.gallery > ul {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.gallery > ul > li {
+    display: flex;
+    margin: 5px;
 }
