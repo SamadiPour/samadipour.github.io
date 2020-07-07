@@ -274,7 +274,7 @@
     direction: rtl;
     letter-spacing: 0px;
     justify-content: right;
-    /*text-align: right !important;*/
+    text-align: right;
 }
 
 .highlight {
@@ -288,4 +288,28 @@ li > code {
 
 .breaker {
     word-break: break-all;
+}
+
+.post-content {
+    text-align: justify;
+}
+
+img.circle {
+    border-radius: 50%;
+    max-width: 32%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.post-info > * {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.post-info > p {
+    margin: 0.8em 0.4em 0.8em 0
+}
+
+.post-info > p > span {
+    margin: 0 0 0.3em 0
 }
