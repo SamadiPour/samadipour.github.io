@@ -280,3 +280,12 @@
 .highlight {
     direction: ltr;
 }
+
+li > code {
+    word-break: break-all;
+    max-width: 100%;
+}
+
+.breaker {
+    word-break: break-all;
+}
