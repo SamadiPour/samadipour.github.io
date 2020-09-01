@@ -35,9 +35,10 @@
       <pubDate>Thu, 02 Jul 2020 02:41:45 +0430</pubDate>
       
       <guid>https://samadipour.github.io/projects/</guid>
-      <description>Task Management  Title: Mobile Application Developer Time: 24 Jun, 2020 - 30 Jun, 2020 (6 days)
-Purpose: Employee could see and manage his/her tasks, update them, write comment or attach a file. Technologies:
- Flutter Firebase Cloud Messaging Firebase Analytics Firebase Crashlytics    Superz  Title: Android Application Developer Time: Oct, 2019 - Present Purpose: Search engine for supermarkets.</description>
+      <description>Paris Yoga Title: Mobile Application Developer Time: 7 Aug, 2020 - Present✅
+Purpose: Yoga practice at home. Technologies:
+ Flutter Firebase Cloud Messaging Firebase Analytics Cloud Firestore RevenueCat (In-App purchase)     Paris Yoga Admin Panel Title: Mobile Application Developer Time: 1 Sep, 2020 - Present✅
+Purpose: Admin Panel for Paris Yoga app. Control firestore, storage, fcm, users with application. It makes everything easier to control. Add/Remove/Move/Edit everything with beautiful UI.</description>
     </item>
     
   </channel>
