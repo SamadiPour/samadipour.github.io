@@ -6,11 +6,7 @@
     <description>Recent content on A.H. SamadiPour</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2020 14:56:44 +0430</lastBuildDate>
-    
-	<atom:link href="https://samadipour.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 06 Jul 2020 14:56:44 +0430</lastBuildDate><atom:link href="https://samadipour.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Customize Spotify With Spicetify | Persian</title>
       <link>https://samadipour.github.io/posts/customize-spotify-with-spicetify-persian/</link>
@@ -35,10 +31,10 @@
       <pubDate>Thu, 02 Jul 2020 02:41:45 +0430</pubDate>
       
       <guid>https://samadipour.github.io/projects/</guid>
-      <description>Paris Yoga Title: Mobile Application Developer Time: 7 Aug, 2020 - Present✅
-Purpose: Yoga practice at home. Technologies:
+      <description>Paris Yoga                      Title: Mobile Application Developer Time: 7 Aug, 2020 - Present✅
+Purpose: Practice yoga at home. Technologies:
  Flutter Firebase Cloud Messaging Firebase Analytics Cloud Firestore RevenueCat (In-App purchase)     Paris Yoga Admin Panel Title: Mobile Application Developer Time: 1 Sep, 2020 - Present✅
-Purpose: Admin Panel for Paris Yoga app. Control firestore, storage, fcm, users with application. It makes everything easier to control. Add/Remove/Move/Edit everything with beautiful UI.</description>
+Purpose: Admin Panel for Paris Yoga app.</description>
     </item>
     
   </channel>
